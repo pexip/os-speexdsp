@@ -1,3 +1,9 @@
+speexdsp (1.2~rc3-1pexip3) pexip; urgency=medium
+
+  * Add missing section in control
+
+ -- Vincent Sanders <vince@pexip.com>  Wed, 16 Dec 2020 16:20:09 +0000
+
 speexdsp (1.2~rc3-1pexip2) pexip; urgency=medium
 
   * Prepare Pexip packaging

@@ -1,4 +1,5 @@
 Source: speexdsp
+Section: sound
 Priority: optional
 Maintainer: Pexip AS <packaging@pexip.com>
 Build-Depends: debhelper (>= 11), autotools-dev
